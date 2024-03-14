@@ -4,7 +4,7 @@ a.k.a. QLog Maps
 
 This repo contains documentation, examples describing the creation and usage of quaternions to encode normal information. The main benefit of this approach is to provide an alternative method for doing calculations such as blending with multiple normals, similar to how quaternions help with 3D rotation maths. This has applications where high quality blending of normal information is required, e.g. skin wrinkle maps.
 
-See [Using QLog Maps](UsingQlogMaps.md) for more information
+See [Using QLog Maps](UsingQLogMaps.md) for more information
 
 For an in-depth dirivation of the method see the contents of the notebooks folder. Initially this includes the original Mathematica notebook.
 
