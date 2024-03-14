@@ -1,0 +1,7 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.3",
+	"Category": "Example",
+	"Description": "Demonstrates how to utilize Quaternion Normal Maps",
+	"Modules": []
+}

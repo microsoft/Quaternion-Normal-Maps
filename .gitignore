@@ -1,0 +1,27 @@
+// Build artifacts
+release
+debug
+x64
+*.pdb
+*.exe
+
+// IDE files
+.vs/
+.vscode/
+ols.json
+
+// Log files
+*.log
+
+// CMake
+**/CMakeCache.txt
+CMakeFiles/
+**/src/**/*.vcxproj*
+**/src/**/*.sln
+**/src/**/*.dir
+**/src/**/cmake_install.cmake
+
+
+// vcpkg
+**/vcpkg_installed/
+

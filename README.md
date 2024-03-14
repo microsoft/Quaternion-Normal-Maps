@@ -1,14 +1,12 @@
-# Project
+# Quaternion Normal Maps
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+a.k.a. QLog Maps
 
-As the maintainer of this project, please make a few updates:
+This repo contains documentation, examples describing the creation and usage of quaternions to encode normal information. The main benefit of this approach is to provide an alternative method for doing calculations such as blending with multiple normals, similar to how quaternions help with 3D rotation maths. This has applications where high quality blending of normal information is required, e.g. skin wrinkle maps.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+See [Using QLog Maps](UsingQlogMaps.md) for more information
+
+For an in-depth dirivation of the method see the contents of the notebooks folder. Initially this includes the original Mathematica notebook.
 
 ## Contributing
 
